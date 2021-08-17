@@ -1,0 +1,2 @@
+# ChinesePinyin.class
+ChinesePinyin.class
